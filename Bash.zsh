@@ -1,5 +1,5 @@
 torchrun --nproc_per_node=4 --main_port=8000 fastchat/train/train_mem.py \
-    --model_name_or_path meta-llama/node-llama-cpp \
+    --model_name_or_path node-llama-cpp/gpt-oss \
     --data_path data/dummy_conversation.json \
     --bf16 True \
     --output_dir output_vicuna \
