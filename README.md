@@ -110,8 +110,7 @@ To contribute to `node-llama-cpp` read the [contribution guide](https://node-lla
 
 > ## Acknowledgements
 * llama.cpp: [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
-<br />
-
+<br/>
 <div align="center" width="360">
     <img alt="Star please" src="https://raw.githubusercontent.com/therealtimex/node-llama-cpp/master/assets/star.please.roundEdges.png" width="360" margin="auto" />
     <br/>
