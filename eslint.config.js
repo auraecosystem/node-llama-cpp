@@ -1,4 +1,5 @@
 // @ts-check
+// @realtimex/node-llama-cpp chat
 
 import path from "path";
 import {fileURLToPath} from "url";
@@ -44,7 +45,7 @@ export default defineConfig({
             SharedArrayBuffer: "readonly"
         },
 
-        ecmaVersion: 2023,
+        ecmaVersion: 2024,
         sourceType: "module"
     },
     settings: {
