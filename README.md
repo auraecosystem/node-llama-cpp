@@ -52,11 +52,11 @@
 *
 * [Blog](https://node-llama-cpp.withcat.ai/blog/)
 *
-* [Changelog](https://github.com/therealtimex/node-llama-cpp/releases)
+* [Changelog](https://github.com/auraecosystem/node-llama-cpp/releases)
 
 ## Try It Without Installing
 Chat with a model in your terminal using [a single command](https://node-llama-cpp.withcat.ai/cli/chat):
-```bash.zsh
+```bash
 npx -y @realtimex/node-llama-cpp chat
 ```
 
@@ -110,8 +110,6 @@ To contribute to `node-llama-cpp` read the [contribution guide](https://node-lla
 
 > ## Acknowledgements
 * llama.cpp: [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
-
-
 <br />
 
 <div align="center" width="360">
